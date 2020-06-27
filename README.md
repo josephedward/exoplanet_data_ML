@@ -2,7 +2,7 @@
 Comparison of Models using NASA Kepler data
 
 # Target
-'koi_disposition' - The disposition in the literature towards this exoplanet candidate. One of CANDIDATE, FALSE POSITIVE, NOT DISPOSITIONED or CONFIRMED (i./e., likelihood that a 
+'koi_disposition' - The disposition in the literature towards this exoplanet candidate. One of CANDIDATE, FALSE POSITIVE, NOT DISPOSITIONED or CONFIRMED (i./e., likelihood that a given exoplanet is a true planet)
 
 # Resources
 * [Exoplanet Data Source](https://www.kaggle.com/nasa/kepler-exoplanet-search-results)
