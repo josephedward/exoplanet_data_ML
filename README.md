@@ -25,4 +25,3 @@ Comparison of Models using NASA Kepler data
 # Supported Models
 * Decision Tree
 * Support Vector Machine
-* Grid Search 
