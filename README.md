@@ -22,10 +22,9 @@ Comparison of Models using NASA Kepler data
 
 # Tune HyperParameters
 * Use `GridSearch` to tune model parameters.
-* Tune and compare at least two different classifiers.
 
 
-# Supported Models
+# Models
 * Decision Tree
 * Support Vector Machine
 
