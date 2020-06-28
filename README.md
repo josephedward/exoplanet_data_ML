@@ -17,11 +17,7 @@ Comparison of Models using NASA Kepler data
 * Preprocess the dataset prior to fitting the model.
 * Perform feature selection and remove unnecessary features.
 * Use `MinMaxScaler` to scale the numerical data.
-* Separate the data into training and testing data.
-
-
-# Tune HyperParameters
-* Use `GridSearch` to tune model parameters.
+* Separates the data into training and testing data with `TrainTestSplit`.
 
 
 # Models
@@ -29,5 +25,5 @@ Comparison of Models using NASA Kepler data
 * Support Vector Machine
 
 
-# Optimizer
-* Grid Search
+# Optimize Hyperparameters
+* Uses `GridSearch` to tune model parameters.
