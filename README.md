@@ -1,8 +1,10 @@
 # Description
 Comparison of Models using NASA Kepler data
 
+
 # Target
-'koi_disposition' - The disposition in the literature towards this exoplanet candidate. One of CANDIDATE, FALSE POSITIVE, NOT DISPOSITIONED or CONFIRMED (i./e., likelihood that a given exoplanet is a true planet)
+'koi_disposition' - The disposition in the literature towards this exoplanet candidate. One of CANDIDATE, FALSE POSITIVE, NOT DISPOSITIONED or CONFIRMED (i.e., likelihood that a given exoplanet is a true planet)
+
 
 # Resources
 * [Exoplanet Data Source](https://www.kaggle.com/nasa/kepler-exoplanet-search-results)
@@ -17,6 +19,7 @@ Comparison of Models using NASA Kepler data
 * Use `MinMaxScaler` to scale the numerical data.
 * Separate the data into training and testing data.
 
+
 # Tune HyperParameters
 * Use `GridSearch` to tune model parameters.
 * Tune and compare at least two different classifiers.
@@ -25,3 +28,7 @@ Comparison of Models using NASA Kepler data
 # Supported Models
 * Decision Tree
 * Support Vector Machine
+
+
+# Optimizer
+* Grid Search
