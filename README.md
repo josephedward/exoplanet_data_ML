@@ -21,8 +21,10 @@ Comparison of Models using NASA Kepler data
 
 
 # Models
+* K-Nearest Neighbors
 * Decision Tree
 * Support Vector Machine
+* Recurrent Neural Network - Keras/Tensorflow
 
 
 # Optimize Hyperparameters
