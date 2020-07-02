@@ -27,5 +27,5 @@ Comparison of Models using NASA Kepler data
 * Recurrent Neural Network - Keras/Tensorflow
 
 
-# Optimize Hyperparameters
+# Optimizers 
 * Uses `GridSearch` to tune model parameters.
