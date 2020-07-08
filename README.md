@@ -20,12 +20,11 @@ Comparison of Models using NASA Kepler data
 * Separates the data into training and testing data with `TrainTestSplit`.
 
 
-# Models
-* K-Nearest Neighbors
-* Decision Tree
-* Support Vector Machine
-* Recurrent Neural Network - Keras/Tensorflow
+# Currently Supported Models
+* Decision Tree - uses `GridSearch` to tune model parameters. 
+[K-Nearest Neighbors, Support Vector Machine, Recurrent Neural Network - Keras/Tensorflow]
 
 
-# Optimizers 
-* Uses `GridSearch` to tune model parameters.
+# Denouement 
+1 . Decision tree ensemble (random forest) points to solar mass centroid offset of exoplanet mass as strongest predictor of planetary viability. 
+
